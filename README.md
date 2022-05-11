@@ -14,7 +14,7 @@ A PlanMyTrip app was built with data from two APIs, OpenWeatherMap and Google Ma
 - Pandas version 1.3.4
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Google Maps API, Plcae Search](https://developers.google.com/maps/documentation/places/web-service/search-nearby)
--CityPy
+- [CityPy](https://github.com/wingchen/citipy)
 
 ## Results
 
@@ -25,10 +25,10 @@ A PlanMyTrip app was built with data from two APIs, OpenWeatherMap and Google Ma
 4. Created a dataframe with all city weather information for each city, and exported it to a CSV.
 
 ### Deliverable 2
-![Vacation Search](../Vacation_Search/WeatherPy_vacation_map.png)
+![Vacation Search](/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Deliverable 3
-![Travel Map Markers](../Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Travel Map Markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ## Summary
 
